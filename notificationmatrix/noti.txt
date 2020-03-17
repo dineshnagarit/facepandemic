@@ -1,0 +1,4 @@
+When a user proximity lies with the +ve infected people,alert the devices within that proximity. 
+
+English
+1. Please be alert , someone within 10 meter radius might be infected, please keep proper distance. 
